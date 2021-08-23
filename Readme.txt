@@ -1,0 +1,1 @@
+Functional tea shop website design based on the design spec sheet using flex box model and @media rules to respond to different screen sizes.
